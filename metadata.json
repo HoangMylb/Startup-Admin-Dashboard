@@ -1,0 +1,7 @@
+{
+  "name": "Startup Admin Dashboard",
+  "description": "What I built: Users management, tables/filters, forms, robust UI states",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
